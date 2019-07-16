@@ -1,0 +1,13 @@
+.card-class-list {
+  list-style: none;
+}
+
+.card-class-list li{
+  font-size: 16px;
+  color: #17bbd0;
+  cursor: pointer;
+}
+
+.card-class-list li:hover {
+  color: #b5eff7;
+}

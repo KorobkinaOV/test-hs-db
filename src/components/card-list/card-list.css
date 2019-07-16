@@ -1,0 +1,11 @@
+.card-list {
+  width: 320px;
+}
+
+.card-list li {
+  cursor: pointer;
+}
+
+.card-list li:hover{
+  background: #585757;
+}

@@ -1,0 +1,20 @@
+.head {
+  font-size: 35px;
+  cursor: pointer;
+  color: #fff;
+}
+
+.menu {
+  list-style: none;
+  width: 400px;
+}
+
+.menu li {
+  font-size: 16px;
+  color: #17bbd0;
+  cursor: pointer;
+}
+
+.menu li:hover {
+  color: #b5eff7;
+}
